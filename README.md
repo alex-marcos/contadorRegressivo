@@ -1,2 +1,2 @@
-# estudoDeJava
-Pretendo usar esse repositorio para postar meu codigo de treino de Java, ainda não sei bem o que ser.
+# estudoDeJavaScript
+Pretendo usar esse repositorio para postar meu codigo de treino de JavaScript, o sei bem o que ser.
