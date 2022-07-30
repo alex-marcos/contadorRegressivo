@@ -1,0 +1,41 @@
+/* Css do Header */
+
+.tituloprincipal {
+    text-align: center;
+    font-size: 2em;
+    font-family:  'Red Hat Display', sans-serif;
+    padding: 3em;
+    font-weight: bold;
+    color: #FFFFFF;
+    letter-spacing: 10px ;
+}
+
+/* Css do Main*/
+
+body {
+    background: url(./assets/bg-stars.svg);
+    background-color: #1e1c29;
+}
+
+.textomain {
+    color: #FFFFFF;
+    letter-spacing: 10px;
+    font-size: 1em;
+    text-align: center;
+    padding: 3em;
+}
+
+
+
+/* Css do Footer */ 
+
+
+footer {
+    
+    background: url(./assets/pattern-hills.svg);
+}
+
+.copyright {
+    text-align: center;
+    color: #FFFFFF;
+}
