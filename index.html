@@ -6,6 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="reset.css">
   <link rel="stylesheet" href="style.css">
+  <script type="module" src="scripts.js" defer ></script>
   <link href="https://fonts.googleapis.com/css2?family=Red+Hat+Display&display=swap" rel="stylesheet">
 
   <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
@@ -21,18 +22,24 @@
 
   </header>
 
-    <main>
-      <script>
-
-        window.onload = (event) => {}
-        function avancar (texto) {
-          alert(texto) 
-        }
-
-        
-
-      </script>
-      <input type="button" value="teste" onclick="avancar('Teste')" />
+    <ul class="contador">
+      <li>
+        <span></span>
+        <div>Dia(s)</div>
+      </li>
+      <li>
+        <span></span>
+        <div>Hora(s)</div>
+      </li>
+      <li>
+        <span></span>
+        <div>Minuto(s)</div>
+      </li>
+      <li>
+        <span></span>
+        <div>Segundo(s)</div>
+      </li>
+    </ul>
 
       <div class="textomain">
         <p1 class="textodias">Dias</p1>
@@ -42,6 +49,8 @@
       </div> 
 
   </main> 
+
+
 
   <footer>
     <p class="copyright"> &copy; Copyright Alex Marcos - 2022</p>
