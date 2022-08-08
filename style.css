@@ -12,11 +12,6 @@
 
 /* Css do Main*/
 
-body {
-    background: url(./assets/bg-stars.svg);
-    background-color: #1e1c29;
-}
-
 .textomain {
     color: #FFFFFF;
     letter-spacing: 10px;
@@ -24,6 +19,44 @@ body {
     text-align: center;
     padding: 3em;
     font-family:  'Red Hat Display', sans-serif;
+}
+
+li {
+    list-style: none;
+}
+
+body {
+    height: 100vh;
+    background: url(./assets/bg-stars.svg);
+    display: grid;
+    align-items: center;
+    background-color: #1e1c29;
+
+}
+
+.countdown {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 400px));
+    justify-content: center;
+    gap: 2em;
+    padding: 2em;
+}
+
+.countdown li {
+    font-family: 'Red Hat Display', sans-serif;;
+    padding: 1rem;
+    color: #FFFFFF;
+    background: #CCCCCC;
+    border-radius: 2em;
+    box-shadow: #121212;
+    text-align: center;
+}
+
+.countdown li span {
+    font-family:  'Red Hat Display', sans-serif;
+    font-style: normal;
+    font-size: 8rem;
+
 }
 
 
