@@ -10,7 +10,7 @@
     letter-spacing: 10px ;
 }
 
-/* Css do Main*/
+
 
 .textomain {
     color: #FFFFFF;
@@ -23,20 +23,25 @@
 
 li {
     list-style: none;
+    font-family:  'Red Hat Display', sans-serif;
 }
 
 body {
-    height: 100vh;
-    background: url(./assets/bg-stars.svg);
     display: grid;
     align-items: center;
     background-color: #1e1c29;
+    height: 100vh;
 
+}
+
+header {
+    background: url(./assets/bg-stars.svg);
+    
 }
 
 .countdown {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 400px));
+    grid-template-columns: repeat(auto-fit, minmax(180px, 180px));
     justify-content: center;
     gap: 2em;
     padding: 2em;
@@ -45,8 +50,8 @@ body {
 .countdown li {
     font-family: 'Red Hat Display', sans-serif;;
     padding: 1rem;
-    color: #FFFFFF;
-    background: #CCCCCC;
+    color: #FA5D83;
+    background: #33364F;
     border-radius: 2em;
     box-shadow: #121212;
     text-align: center;
@@ -55,21 +60,61 @@ body {
 .countdown li span {
     font-family:  'Red Hat Display', sans-serif;
     font-style: normal;
-    font-size: 8rem;
+    font-size: 6rem;
 
 }
 
+.contagem {
+    position: relative;
+    left: 35%;
+    display: flex;
+    font-size: 2em;
+    color: #8284A8;
+    
+
+
+}
+
+.contagem li {
+    padding: 0em 1em 0em 3em;
+    position: relative;
+    right: 12%;
+}
+
+
+/* Css do Main */
+
+.montanhas {
+    width: 100%;
+    position: relative;
+    top: 8em;
+}
 
 
 /* Css do Footer */ 
 
 
 footer {
+    background-color: #2f2439 ;
+    position: relative;
+    top: 20%;
     
-    background: url(./assets/pattern-hills.svg);
+}
+
+.container-a {
+    position: relative;
+    left: 46%;
+    width: 15%;
+    bottom: 7em;
+}
+
+.logorede {
+    padding: 0 0 0 1em;
 }
 
 .copyright {
     text-align: center;
     color: #FFFFFF;
+    font-family:  'Red Hat Display', sans-serif;
+    padding: 2em;
 }
