@@ -51,11 +51,16 @@ header {
     font-family: 'Red Hat Display', sans-serif;;
     padding: 1rem;
     color: #FA5D83;
-    background: #33364F;
+    background: linear-gradient(hsl(235, 16%, 15%)50%, hsl(237, 21%, 20%)50%);
     border-radius: 2em;
     box-shadow: #121212;
     text-align: center;
+    font-weight: bold;
 }
+
+
+
+
 
 .countdown li span {
     font-family:  'Red Hat Display', sans-serif;
@@ -64,21 +69,46 @@ header {
 
 }
 
+
 .contagem {
     position: relative;
-    left: 35%;
+    left: 39%;
     display: flex;
-    font-size: 2em;
+    font-size: 1.5em;
     color: #8284A8;
+    letter-spacing: 0.5em;
+    text-align: center;
+    flex-direction: row;
+    align-content: center;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 23%;
     
-
 
 }
 
-.contagem li {
-    padding: 0em 1em 0em 3em;
+
+
+.contagem li:first-child {
+    padding: 0em 0em 0em 5em;
     position: relative;
-    right: 12%;
+    right: 34%;
+
+}
+
+.contagem li:nth-child(2) {
+    position: relative;
+    right: 9%;
+}
+
+.contagem li:nth-child(3) {
+    position: relative;
+    left: 7%;
+}
+
+.contagem li:last-child {
+    position: relative;
+    left: 17%;
 }
 
 
