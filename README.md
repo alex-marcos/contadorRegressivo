@@ -1,8 +1,8 @@
 <h1 align="center">Contador Regressivo</h1>
 
 Esse projeto foi iniciado com o intuito de estudar e aplicar os estudos da técnologia JavaScript, ele foi escolhido pois justamente</br>
-sua estrutura HTML e CSS não são tão complexas assim para poder me dar mais tempo de trabalhar com o JavaScript utilizado na </br> 
-estrutura do contador, foi utilizado também a extensão Live Code, para verificar a funcionalidade do projeto. O desafio foi </br>
+sua estrutura HTML e CSS não são tão complexas assim para poder me dar mais tempo de trabalhar com o JavaScript utilizado na  
+estrutura do contador, foi utilizado também a extensão Live Code, para verificar a funcionalidade do projeto. O desafio foi 
 retirado o site Frontend Mentor, onde indica que sua dificuldade é nível intermediario.
 
 
