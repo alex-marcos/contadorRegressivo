@@ -1,23 +1,46 @@
-# Frontend Mentor - Launch countdown timer 
+<h1 align="center">Contador Regressivo</h1>
 
-**Olá esse projeto estava parado pois ele estava sendo utilizado para meu estudo de Javascript, entretanto agora após me aprofundar em JS decidi aceitar esse desafio para que eu possa trabalhar e focar exclusivamente em me desafiar utilizando JS.
+Esse projeto foi iniciado com o intuito de estudar e aplicar os estudos da técnologia JavaScript, ele foi escolhido pois justamente</br>
+sua estrutura HTML e CSS não são tão complexas assim para poder me dar mais tempo de trabalhar com o JavaScript utilizado na </br> 
+estrutura do contador, foi utilizado também a extensão Live Code, para verificar a funcionalidade do projeto. O desafio foi </br>
+retirado o site Frontend Mentor, onde indica que sua dificuldade é nível intermediario.
 
 
-![Design preview for the Launch countdown timer coding challenge](./design/desktop-preview.jpg)
+* Link do desafio: https://www.frontendmentor.io/challenges/launch-countdown-timer-N0XkGfyz-
 
 
+<h2 align="centre">Resultado do site:</h2>
 
-**To do this challenge, you need a good understanding of HTML, CSS and JavaScript.**
+# Desafio
+<img align="center" alt="Design do site" height="200" width="500" src="./design/active-states.jpg">
 
-## The challenge
+**Para realizar o desafio você precisa ter um bom entendimento de HTML, CSS e JavaScript.**
 
-Your challenge is to build out this countdown timer and get it looking as close to the design as possible.
+## Resultado
 
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+<img align="center" alt="Design do site" height="200" width="500" src="./design/resultado.png">
 
-Your users should be able to:
+<h3 align="centre">The challenge</h3>
 
-- See hover states for all interactive elements on the page
-- See a live countdown timer that ticks down every second (start the count at 14 days)
-- **Bonus**: When a number changes, make the card flip from the middle
+Seu desafio é construir um contador regressivo que tenha o design mais proximo o possível do design proposto.
 
+Você pode utilizar quaisquer ferramentas que achar necessário.
+
+Os usuarios devem ser capazes de fazer:
+
+- Interagir com os elementos da tela quando passar o mouse por cima.
+- Ver um contador regressivo que mostra os segundos (Preferencialmente de 14 dias)
+- **Bonus**: Quando o número mudar, aparece um card virando.
+
+<h4 align="centre">Tecnologias utilizadas no desafio</h4>
+
+<div align="center">
+     <div style="display: inline_block margin-left:auto margin-rigth:auto"><br> 
+       <img align="center" alt="JavaScript icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">   
+       <img align="center" alt="HTML icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+       <img align="center" alt="CSS icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    </div>
+</div>
+
+## Clique no link abaixo para vizualizar: 
+https://laetuus.github.io/contadorRegressivo/index.html
