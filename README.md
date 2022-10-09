@@ -16,7 +16,9 @@ retirado o site Frontend Mentor, onde indica que sua dificuldade é nível inter
 
 **Para realizar o desafio você precisa ter um bom entendimento de HTML, CSS e JavaScript.**
 
-## Resultado
+## Gif do Resultado
+
+<img align="center" alt="Design do site" height="300" width="500" src="./design/resultado.gif">
 
 <img align="center" alt="Design do site" height="300" width="500" src="./design/resultado.png">
 
