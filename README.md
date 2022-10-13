@@ -12,7 +12,7 @@ retirado o site Frontend Mentor, onde indica que sua dificuldade é nível inter
 <h2 align="centre">Resultado do site:</h2>
 
 # Desafio
-<img align="center" alt="Design do site" height="300" width="500" src="./design/active-states.jpg">
+<img align="center" alt="Design do site" height="300" width="500" src="./assets/design/active-states.jpg">
 
 **Para realizar o desafio você precisa ter um bom entendimento de HTML, CSS e JavaScript.**
 
