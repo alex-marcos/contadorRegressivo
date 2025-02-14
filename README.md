@@ -45,4 +45,4 @@ Os usuarios devem ser capazes de fazer:
 </div>
 
 ## Clique no link abaixo para vizualizar: 
-https://laetuus.github.io/contadorRegressivo/index.html
+https://alex-marcos.github.io/contadorRegressivo/index.html
